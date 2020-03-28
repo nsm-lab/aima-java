@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![](https://github.com/aima-java/aima-java/blob/gh-pages/aima3e/images/aima3e.jpg)AIMA3e-Java (JDK 7+) [![Build Status](https://travis-ci.org/aima-java/aima-java.svg?branch=AIMA3e)](https://travis-ci.org/aima-java/aima-java)
 Java implementation of algorithms from [Norvig](http://www.norvig.com/) and [Russell's](http://www.cs.berkeley.edu/~russell/)  [Artificial Intelligence - A Modern Approach 3rd Edition](http://aima.cs.berkeley.edu/)
 ### Getting Started Links 
@@ -615,3 +616,7 @@ Java implementation of algorithms from [Norvig](http://www.norvig.com/) and [Rus
    </tr>
    </tbody>
 </table>
+=======
+# aima-java
+Java implementation of algorithms from Norvig And Russell's "Artificial Intelligence - A Modern Approach"
+>>>>>>> 0ed2ed72c92de20aba3e25794fca8f27b3f62dc3
